@@ -1,0 +1,60 @@
+body {
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c49a6c; 
+}
+
+/* Banner Styling */
+.banner {
+    background-color: #784421; 
+    color: black;
+    text-align: center;
+    padding: 79px 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* Navigation Bar */
+.navbar {
+    background-color: #c49a6c; 
+    text-align: center;
+    padding: 15px 0;
+}
+
+.navbar a {
+    color: #175312; 
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 15px;
+    font-family: Georgia, serif;
+}
+
+.navbar a:hover {
+    color: rgb(7, 106, 7);
+}
+
+
+.content {
+    padding: 20px;
+    color: rgb(72, 32, 5);
+    font-family: Georgia, serif;
+}
+
+
+.content h1 {
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Georgia, serif;
+}
+
+
+.footer {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+    font-family: Georgia, serif;
+    color: #000000;
+
+}
